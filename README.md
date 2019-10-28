@@ -23,8 +23,8 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 
 # Prepare dataset
 
-1- Put your dataset,here BraTS, on the root address:
-2- Create "data_adr.txt" file and determine requirement as bellow:
+1-
+2- 
 
 
 
