@@ -18,6 +18,8 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 <p> NVIDIA GPU + CUDA CuDNN  </p> 
 <p> Keras  </p>
 <p> SimpleITK  </p>
+<p> TensorFlow </p>
+
 
 # Prepare dataset
 
@@ -35,4 +37,4 @@ python main.py 16 16 --backend tensorflow --nb_epoch 100 --do_plot --generator d
 
 
 # How to download data
-BraTS 2019 dataset. Data can be downloaded from http://braintumorsegmentation.org/
+BraTS 2013 dataset. Data can be downloaded from http://braintumorsegmentation.org/
