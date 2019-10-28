@@ -6,3 +6,6 @@ the central labels of the sliding input patches.
 You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 <p> - Challenge Dataset - </p>
 <p> https://www.smir.ch/BRATS/Start2013 </p>
+
+![](https://github.com/hamghalam/ESGAN/blob/master/image.png)
+
