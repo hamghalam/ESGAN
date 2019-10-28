@@ -23,3 +23,16 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 
 1- Put your dataset,here BraTS, on the root address:
 2- Create "data_adr.txt" file and determine requirement as bellow:
+
+
+
+# To train model, run this command on Linux terminal:
+
+<div class="highlight highlight-source-shell"><pre>
+python Enhancement_GAN.py config/data_adr.txt
+</pre></div>
+
+
+
+# How to download data
+BraTS 2019 dataset. Data can be downloaded from http://braintumorsegmentation.org/
