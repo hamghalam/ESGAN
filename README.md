@@ -40,7 +40,7 @@ python main.py 16 16 --backend tensorflow --nb_epoch 100 --do_plot --generator d
 <p>
   positional arguments:
     
-    patch_size            Patch size for D
+    patch_size            Patch size for D (here 16x16)
 
 optional arguments:
 
