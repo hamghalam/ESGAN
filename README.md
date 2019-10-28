@@ -65,8 +65,7 @@ optional arguments:
                         Whether to smooth the positive labels when training D
     --label_flipping LABEL_FLIPPING
                         Probability (0 to 1.) to flip the labels when training
-                        D
-</p>
+                        </p>
 
 
 
