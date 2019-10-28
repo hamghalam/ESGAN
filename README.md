@@ -40,33 +40,15 @@ python main.py 16 16 --backend tensorflow --nb_epoch 100 --do_plot --generator d
 <p>
   positional arguments:
     
-    patch_size            Patch size for D (here 16x16)
-
-optional arguments:
-
-    -h, --help            show this help message and exit
-    --backend BACKEND     theano or tensorflow
-    --generator GENERATOR
-                        upsampling or deconv
-    --dset DSET           facades
-    --batch_size BATCH_SIZE
-                        Batch size
-    --n_batch_per_epoch N_BATCH_PER_EPOCH
-                        Number of training epochs
-    --nb_epoch NB_EPOCH   Number of batches per epoch
-    --epoch EPOCH         Epoch at which weights were saved for evaluation
-    --nb_classes NB_CLASSES
-                        Number of classes
+    --patch_size            Patch size for D (here 16x16)
+    --backend BACKEND       theano or tensorflow
+    --generator GENERATOR   upsampling or deconv
+    --n_batch_per_epoch     N_BATCH_PER_EPOCH  Number of training epochs
+    --nb_epoch   NB_EPOCH   Number of batches per epoch
+    
     --do_plot             Debugging plot
-    --bn_mode BN_MODE     Batch norm mode
-    --img_dim IMG_DIM     Image width == height
-    --use_mbd             Whether to use minibatch discrimination
-    --use_label_smoothing
-                        Whether to smooth the positive labels when training D
-    --label_flipping LABEL_FLIPPING
-                        Probability (0 to 1.) to flip the labels when training
-
-
+    
+</p>
 
 
 # How to download data
