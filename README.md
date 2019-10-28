@@ -24,6 +24,8 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 # Prepare Dataset
 Put your Dataset as numpy array as:
 
+<p> data shape (#samples, Width, Lenght, 1)  </p>
+
 <p>  X_full       -------> High Contrast images based on FLAIR  </p>
 <p>  X_sketch     -------> Original image FALIR                 </p>
 <p>  Target_class -------> Segmentation labels (Ground trusth)  </p>
