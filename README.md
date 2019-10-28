@@ -29,7 +29,7 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 # To train model, run this command on Linux terminal:
 
 <div class="highlight highlight-source-shell"><pre>
-python Enhancement_GAN.py config/data_adr.txt
+python main.py 16 16 --backend tensorflow --nb_epoch 100 --do_plot --generator deconv --n_batch_per_epoch 400
 </pre></div>
 
 
