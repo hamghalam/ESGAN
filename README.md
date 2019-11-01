@@ -11,6 +11,12 @@ You can find detailed results (Team name: Hamghalam) on BraTS 2013 dataset on:
 
 
 
+![Alt Text](https://github.com/hamghalam/ESGAN/blob/master/Segmentation.gif)
+
+<p> &#x1f4d2; Yellow : Edema    </p>
+<p> &#x1F535; Blue   : Enhancing tumor </p>
+<p> &#128215; Green  : Non-Enhancing tumor  </p>
+
 # Prerequisites
 
 <p> A CUDA compatable GPU with memory not less than 12GB is recommended for training. For testing only, a smaller GPU should be suitable. </p>
