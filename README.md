@@ -32,7 +32,7 @@ Put your Dataset as numpy array as:
 
 <p> data shape (#samples, width, lenght, 1)  </p>
 
-<p>  X_full       -------> High Contrast images based on FLAIR  </p>
+<p>  X_full       -------> High contrast images based on FLAIR  </p>
 <p>  X_sketch     -------> Original image FALIR                 </p>
 <p>  Target_class -------> Segmentation labels (Ground trusth)  </p>
 
